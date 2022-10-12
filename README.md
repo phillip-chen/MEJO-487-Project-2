@@ -1,5 +1,5 @@
 # An Interactive Educational Website
-This goal is to create an educational website with interactive slides, media contents, and a quiz to teach a concept, theory, or technique. Target audience is high school student
+The goal is to create an educational website with interactive slides, media contents, and a quiz to teach a concept, theory, or technique. Target audience is high school student
 
 My topic is about the great cola war which teaches the history and fun facts of Coca Cola and PespiCo. 
 
